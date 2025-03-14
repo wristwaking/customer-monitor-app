@@ -5,6 +5,13 @@
 
 ## 软件截图
 
+![image](https://github.com/user-attachments/assets/207acc49-6e68-4026-9393-b28543f80bb4)
+
+![image](https://github.com/user-attachments/assets/ddeaca53-64ea-4c09-8a2b-02d2be0955d5)
+
+## weixinbot 目录
+![image](https://github.com/user-attachments/assets/2aeb4a26-d234-4eee-9738-520eab89c18b)
+
 
 ## 运行
 ```
